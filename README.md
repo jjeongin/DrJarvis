@@ -20,7 +20,7 @@ You can find the [Video Demonstration](https://youtu.be/FVcbAJYLKvc) and the [Pr
   Make sure the three (3) Pickle files are directly in the cloned repository root (`StarHack-medical-classification/`).
 
 4. Run the app. <br>
-`streamlit run app/app.py`
+`streamlit run app.py`
 
 ### The steps we took to build the app:
 * Downloaded the **Medical Transcriptions** Dataset from Kaggle
