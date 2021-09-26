@@ -36,8 +36,3 @@ You can find the [Video Demonstration](https://youtu.be/FVcbAJYLKvc) and the [Pr
 ### Important Links
 
 - Link to Trained Models ([RandomForest](https://www.kaggle.com/kushaldev75/text-classifier-random-forest), [Support Vector Machine](https://www.kaggle.com/kushaldev75/text-classifier-svm), [K Nearest Neighbour](https://www.kaggle.com/kushaldev75/text-classifier-knn))
-
-# Dr. Jarvis 💉
-In this project, we trained/finetuned a text classification model to predict the medical specialties based on the transcription text entered by users. The application is deployed on Streamlit. 
-
-You can find the [Video Demonstration](https://youtu.be/FVcbAJYLKvc) and the [Presentation](https://github.com/jjeongin/StarHack-medical-classification/blob/main/Presentation%20%23Team67.pdf) here
