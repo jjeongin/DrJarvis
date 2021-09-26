@@ -18,3 +18,7 @@ streamlit run app/app.py
 
 
 ### Output Examples (Prediction + Word Cloud)
+
+### Important Links
+
+- Link to Trained Models ([RandomForest](www.kaggle.com/dataset/e882644a6da229eb5177a9fa82bd9885e06e2ea954dbb0aa797333e1c3a2139d), [Support Vector Machine](www.kaggle.com/dataset/a3ae9d843e5998b6dd7c21cc2ab54ed56a37b6bfca6da47073906633e44e3872), [K Nearest Neighbour](www.kaggle.com/dataset/35a6e60b83ab7446241d2d1905f5fe5f97c1172836f316077c7938993f48bc66))
