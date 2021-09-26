@@ -8,7 +8,7 @@ You can find the [Video Demonstration](https://youtu.be/FVcbAJYLKvc) and the [Pr
 ### Installations 
 ### Installations 
 1. Clone repository and go into the directory. <br>
-`git clone https://github.com/jjeongin/StarHack-medical-classification.git && cd StarHack-medical-classification/`
+`git clone https://github.com/Fennec2000GH/StarHack-medical-classification.git`
 
 2. Install required dependencies in Python. <br>
 `pip install -r requirements.txt`
