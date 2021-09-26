@@ -1,4 +1,4 @@
-# Dr.Jarvis 💉
+# Dr. Jarvis 💉
 In this project, we trained/finetuned a text classification model to predict the medical specialties based on the transcription text entered by users. The application is deployed on Streamlit. 
 
 You can find the [Video Demonstration]() and the [Presentation]() here
