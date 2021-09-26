@@ -15,7 +15,7 @@ streamlit run app/main.py
 * Downloaded the **Medical Transcriptions** Dataset from Kaggle
 * Split the data into random train and test subsets
 * Preprocessed the transcription column of text with **tokenization**
-* Finetuned pre-trained **distilBert** model from **HuggingFace PyTorch**
+* Trained by SVM, KNN, Random Forest models from **scikit-learn**
 * Created the application using **Streamlit** framework and deployed it 
 
 
