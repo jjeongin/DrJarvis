@@ -1,3 +1,4 @@
+bertviz
 keras
 numpy
 pandas
