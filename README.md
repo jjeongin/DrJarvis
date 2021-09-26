@@ -31,6 +31,7 @@ You can find the [Video Demonstration](https://youtu.be/FVcbAJYLKvc) and the [Pr
 
 
 ### Output Examples (Prediction + Word Cloud)
+- Check out the [Devpost project page](https://devpost.com/software/medical-transcript-classification) for Dr.Jarvis
 
 ### Important Links
 
