@@ -4,11 +4,9 @@ In this project, we trained/finetuned a text classification model to predict the
 You can find the [Video Demonstration]() and the [Presentation]() here
 
 ### Installations 
-**Note: You only need to install if you want to run it locally on your machine**
-
 Clone this repo to the ```app``` directory and run 
 ```
-streamlit run app/main.py
+streamlit run app/app.py
 ```
 
 ### The steps we took to build the app:
@@ -19,4 +17,4 @@ streamlit run app/main.py
 * Created the application using **Streamlit** framework and deployed it 
 
 
-### Output Examples (Prediction + VizBert + Word Cloud)
+### Output Examples (Prediction + Word Cloud)
