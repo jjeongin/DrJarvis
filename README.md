@@ -6,6 +6,6 @@ You can find the [Video Demonstration]() and the [Presentation]() here
 ### The steps we took to build the app:
 * Downloaded the **Medical Transcriptions** Dataset from Kaggle
 * Split the data into random train and test subsets
-* Preprocessed the transcription column of text (tokenization)
+* Preprocessed the transcription column of text with **tokenization**
 * Finetuned pre-trained **distilBert** model from **HuggingFace PyTorch**
 * Created the application using **Streamlit** framework and deployed it 
