@@ -6,7 +6,6 @@ In this project, we trained/finetuned a text classification model to predict the
 You can find the [Video Demonstration](https://youtu.be/FVcbAJYLKvc) and the [Presentation](https://github.com/jjeongin/StarHack-medical-classification/blob/main/Presentation%20%23Team67.pdf) here
 
 ### Installations 
-### Installations 
 1. Clone repository and go into the directory. <br>
 `git clone https://github.com/Fennec2000GH/StarHack-medical-classification.git`
 
